@@ -1,30 +1,28 @@
 {
-songs: {
-    0: {
-      id: 0,
-      song: "test song 1",
-      description: "test description 1",
-      url:
-        "https://st4.depositphotos.com/1029473/20218/i/1600/depositphotos_202182078-stock-photo-illustration-musical-notes-musical-signs.jpg",
-    },
-    1: {
-      id: 1,
-      song: "test song 2",
-      description: "test description 2",
-      url:
-        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
-    },
-    2: {
-      id: 2,
-      song: "test song 3",
-      description: "test description 3",
-      url: "",
-    },
-    3: {
-      id: 3,
-      song: "test song 4",
-      description: "test description 3",
-      url: "",
-    },
-  }
+	songs: {
+		"0": {
+			id: 0,
+			song: "test song 1",
+			description: "test description 1",
+			url: "https://st4.depositphotos.com/1029473/20218/i/1600/depositphotos_202182078-stock-photo-illustration-musical-notes-musical-signs.jpg",
+		},
+		"1": {
+			id: 1,
+			song: "test song 2",
+			description: "test description 2",
+			url: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
+		},
+		"2": {
+			id: 2,
+			song: "test song 3",
+			description: "test description 3",
+			url: "",
+		},
+		"3": {
+			id: 3,
+			song: "test song 4",
+			description: "test description 3",
+			url: "",
+		},
+	}
 }
